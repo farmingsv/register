@@ -1,0 +1,39 @@
+---
+TSGuild:
+  172.110.16.142: 파밍온라인-pororipodo
+TSFriend:
+  172.110.16.142: 파밍온라인-pororipodo
+TSMine:
+  172.110.16.142: 파밍온라인-pororipodo
+TSProtectChest:
+  172.110.16.142: 파밍온라인-pororipodo
+TSSmartShop:
+  121.78.158.237: 파밍온라인-pororipodo
+TSTimeToBanCommands:
+  121.78.158.237: 파밍온라인-pororipodo
+TSTutorial:
+  121.78.158.237: 파밍온라인-pororipodo
+TSServerManager:
+  121.78.158.237: 파밍온라인-pororipodo
+PR_Guide:
+  121.78.158.237: 파밍온라인-pororipodo
+Competition:
+  121.78.158.237: 파밍온라인-pororipodo
+  211.115.84.67:  파밍-porori
+  112.145.251.18: 이토요청-Eimayto
+  119.193.119.152: 새별서버-surbed
+mute:
+  121.78.158.237: 파밍온라인-pororipodo
+  112.145.251.18: 이토요청-Eimayto
+  119.193.119.152: 새별서버-surbed
+bank:
+  121.78.158.237: 파밍온라인-pororipodo
+  211.115.84.67: 파밍test-porori
+  112.145.251.18: 이토요청-Eimayto
+  119.193.119.152: 새별서버-surbed
+Stound_Event
+  121.78.158.237: 파밍온라인-pororipodo
+  119.193.119.152: 새별서버-surbed
+  112.145.251.18: 이토요청-Eimayto
+  
+...
